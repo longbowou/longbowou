@@ -3,6 +3,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=longbowou)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=longbowou&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
