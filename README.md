@@ -1,8 +1,4 @@
 <h1 align="center"> Hello there, This is Daniel </h1>
 <h3 align="center">Experienced Full Stack Developer with 4+ Years Experience ✦ Python ✦ JavaScript ✦ Seeking Exciting Job Opportunity ✦ Available full-time W2 ✦ Willing to relocate</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=longbowou)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=longbowou&layout=donut&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=longbowou&repo=Rwanda)](https://github.com/anuraghazra/github-readme-stats)
+Crafting a sophisticated dispatcher system with Python and Django, I improved SMS request routing by 50%, enhancing system response time. Implementing Docker containerization across twelve servers boosted scalability and performance by 50%, ensuring uninterrupted service. Developing RESTful API services for seamless data transfer between Flutter and backend increased real-time synchronization efficiency by 35%. Seamlessly integrating a Backend API into a Flutter app reduced loading times by 35% and enhanced responsiveness. Managing deployment with GitLab CI/CD and Docker improved productivity by 20%. Leading verbal communication efforts boosted project efficiency by 30% and achieved 20% client retention. Conducting an in-depth assessment at CENI, I accelerated coding processes by 50% and enhanced data accuracy by 45%. Revamping web interfaces improved user productivity by 30%. Optimizing SQL Databases resulted in a 60% increase in data retrieval speed.
