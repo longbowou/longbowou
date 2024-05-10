@@ -1,3 +1,3 @@
 <h1 align="center"> Hello there, This is Daniel </h1>
-<h3 align="center">Experienced Full Stack Developer with 4+ Years Experience ✦ Python ✦ JavaScript ✦ Seeking Exciting Job Opportunity ✦ Available full-time W2 ✦ Willing to relocate</h3>
+<h3 align="center">Crafting a sophisticated dispatcher system with Python and Django, I improved SMS request routing by 50%, enhancing system response time. Implementing Docker containerization across twelve servers boosted scalability and performance by 50%, ensuring uninterrupted service. And many more ...</h3>
 
